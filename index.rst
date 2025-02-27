@@ -1,20 +1,14 @@
-.. _internals:
+.. _testing:
 
-===================
-CPython's internals
-===================
-
-This guide describes the basics of CPython's internals.
-It explains the layout of CPython's source code.
-It also explains how the parser, compiler, and interpreter
-work together to run your Python code.
-Finally, it covers the garbage collector and how it manages memory.
+=====================
+Testing and buildbots
+=====================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 5
 
-   exploring
-   parser
-   compiler
-   interpreter
-   garbage-collector
+   run-write-tests
+   silence-warnings
+   coverage
+   buildbots
+   new-buildbot-worker
