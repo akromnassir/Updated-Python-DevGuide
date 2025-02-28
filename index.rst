@@ -1,14 +1,12 @@
-.. _testing:
-
-=====================
-Testing and buildbots
-=====================
+===================
+Issues and triaging
+===================
 
 .. toctree::
    :maxdepth: 5
 
-   run-write-tests
-   silence-warnings
-   coverage
-   buildbots
-   new-buildbot-worker
+   issue-tracker
+   triaging
+   labels
+   github-bpo-faq
+   triage-team
