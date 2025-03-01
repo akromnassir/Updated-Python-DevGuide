@@ -1,12 +1,16 @@
-===================
-Issues and triaging
-===================
+.. _core-dev:
+
+===============
+Core developers
+===============
 
 .. toctree::
    :maxdepth: 5
 
-   issue-tracker
-   triaging
-   labels
-   github-bpo-faq
-   triage-team
+   responsibilities
+   committing
+   experts
+   developer-log
+   motivations
+   become-core-developer
+   memorialization
