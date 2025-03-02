@@ -1,16 +1,19 @@
-.. _core-dev:
+.. _dev-workflow:
 
-===============
-Core developers
-===============
+====================
+Development workflow
+====================
 
 .. toctree::
    :maxdepth: 5
 
-   responsibilities
-   committing
-   experts
-   developer-log
-   motivations
-   become-core-developer
-   memorialization
+   communication-channels
+   development-cycle
+   stdlib
+   extension-modules
+   c-api
+   lang-changes
+   grammar
+   porting
+   sbom
+   psrt
